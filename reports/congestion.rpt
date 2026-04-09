@@ -1,0 +1,15 @@
+****************************************
+Report : congestion
+Design : power_of_four_rtl
+Version: W-2024.09
+Date   : Sun Apr  5 16:34:56 2026
+****************************************
+
+Layer     |    overflow     |              # GRCs has
+Name      |  total  |  max  | overflow (%)      | max overflow
+---------------------------------------------------------------
+Both Dirs |       0 |     0 |       0  ( 0.00%) |       0
+H routing |       0 |     0 |       0  ( 0.00%) |       0
+V routing |       0 |     0 |       0  ( 0.00%) |       0
+
+1

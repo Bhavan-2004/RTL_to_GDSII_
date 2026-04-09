@@ -1,0 +1,6 @@
+./outputs/power_of_four.spef.p1_125.spef for scenarios: 
+	 scenario: func::nom, corner type: late
+
+./outputs/power_of_four.spef.p2_125.spef for scenarios: 
+	 scenario: func::nom, corner type: early
+
